@@ -1,0 +1,8 @@
+++ FUNCIONARIO ++
+a
+1.0
+1
+++ FUNCIONARIO ++
+b
+2.0
+2
